@@ -1,0 +1,7 @@
+c:\users\administrator\source\repos\MoreCSharp\MoreCSharp\bin\Debug\MoreCSharp.exe.config
+c:\users\administrator\source\repos\MoreCSharp\MoreCSharp\bin\Debug\MoreCSharp.exe
+c:\users\administrator\source\repos\MoreCSharp\MoreCSharp\bin\Debug\MoreCSharp.pdb
+c:\users\administrator\source\repos\MoreCSharp\MoreCSharp\obj\Debug\MoreCSharp.csprojAssemblyReference.cache
+c:\users\administrator\source\repos\MoreCSharp\MoreCSharp\obj\Debug\MoreCSharp.csproj.CoreCompileInputs.cache
+c:\users\administrator\source\repos\MoreCSharp\MoreCSharp\obj\Debug\MoreCSharp.exe
+c:\users\administrator\source\repos\MoreCSharp\MoreCSharp\obj\Debug\MoreCSharp.pdb
